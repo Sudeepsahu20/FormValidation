@@ -32,7 +32,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/username/react-signup-form.git
+git clone https://github.com/Sudeepsahu20/FormValidation.git
 
 
 Navigate to the project directory:
